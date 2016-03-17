@@ -15,7 +15,7 @@ print("Setting up listening socket...")
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((host, port))
 s.listen(backlog)
-print("Listen for connections...")
+print("Listen for connections on port " + str(port) + "...")
 while 1:
     (client, address) = s.accept()
     print("Connection from " + str(address))
