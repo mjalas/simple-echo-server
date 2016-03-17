@@ -1,0 +1,9 @@
+# Sublime project files
+*.sublime-project
+*.sublime-workspace
+
+# Virtual environments
+.env
+.venv
+
+__pycache__*
