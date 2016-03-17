@@ -1,0 +1,1 @@
+mkvirtualenv echo-server && pip install -r requirements.txt
