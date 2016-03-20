@@ -21,7 +21,7 @@ if path.exists(path.join(here, 'README.rst')):
 
 setup(
     name='simple-echo-server',
-    version='0.0.1',
+    version='0.1.0',
 
     description='A simple echo server application',
     long_description=long_description,
