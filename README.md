@@ -1,6 +1,6 @@
 # Simple echo server
 
-A simple echo server application.
+A simple echo server application. The echo server has mostly been used for testing initial network application connection and messages.
 
 ## Usage
 
